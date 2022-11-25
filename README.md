@@ -1,2 +1,0 @@
-# codecity
-PUBLII TESTING
